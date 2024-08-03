@@ -26,8 +26,8 @@ This Python tool assesses the strength of passwords based on their length, compl
 - The script will output the strength of the password.
 
 ## Customization
- **Common Passwords List**: You can expand or modify the common_passwords set in the code to include more commonly used passwords.
-Strength Metrics: Adjust the strength metrics and feedback thresholds according to your requirements.
+- **Common Passwords List**: You can expand or modify the common_passwords set in the code to include more commonly used passwords.
+- **Strength Metrics**: Adjust the strength metrics and feedback thresholds according to your requirements.
 
 ## Contributing
 Contributions are welcome! If you have suggestions or improvements, please create a pull request or open an issue.
