@@ -13,6 +13,9 @@ This Python tool assesses the strength of passwords based on their length, compl
 
 - Python 3.x
 
+## Installation
+- **Clone the Repository**: https://github.com/gourabg2000/Codtech_Task_1.git
+
 ## Usage
 - Open the password_strength.py file in your preferred Python IDE or editor (e.g., Spyder).
 
